@@ -2,12 +2,14 @@
     width: 300px;
     height: 100px;
     border: dashed red 2px;
+    overflow: auto;
+    display: inline-block;
 }
 
 #container{
     border: 1px solid black;
     width: 80%;
-    margin: 0px auto;
+    margin: 20px auto;
 }
 
 .azul {
